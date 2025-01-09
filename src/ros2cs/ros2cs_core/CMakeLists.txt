@@ -377,7 +377,7 @@ if(STANDALONE_BUILD)
     rosidl_typesupport_introspection_cpp
     spdlog
     tracetools
-    yaml
+    yaml-cpp
     tinyxml2
   )
   
